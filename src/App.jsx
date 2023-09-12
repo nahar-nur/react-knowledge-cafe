@@ -1,9 +1,7 @@
 import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
 import './App.css'
 import Header from './Ccomponents/Header/Header'
-import Blogs from './Ccomponents/Blogs/Bogs'
+import Blogs from './Ccomponents/Blogs/Blogs'
 import Bookmarks from './Ccomponents/Bookmarks/Bookmarks'
 
 function App() {
